@@ -1,4 +1,4 @@
-# A3.1 PCA y Sistemas de Recomendación
+#PCA y Sistemas de Recomendación
 
 En este proyecto se desarrollan distintos análisis relacionados con la reducción de dimensionalidad y los sistemas de recomendación utilizando técnicas de aprendizaje automático. El objetivo principal es explorar cómo métodos como **PCA** y los modelos de recomendación pueden utilizarse para identificar patrones relevantes en conjuntos de datos y generar representaciones más compactas de la información.
 
@@ -10,5 +10,5 @@ Durante el desarrollo se utilizaron bibliotecas de Python orientadas a ciencia d
 
 ## Documentos incluidos
 
-- [Reporte en formato ipynb](./A3.1%20PCA%20y%20Sistemas%20de%20Recomendación.ipynb)
-- [Reporte en formato html](./A3.1%20PCA%20y%20Sistemas%20de%20Recomendaci%C3%B3n.html)
+- [Reporte en formato ipynb](./PCA%20y%20Sistemas%20de%20Recomendación.ipynb)
+- [Reporte en formato html](./PCA%20y%20Sistemas%20de%20Recomendación.html)
