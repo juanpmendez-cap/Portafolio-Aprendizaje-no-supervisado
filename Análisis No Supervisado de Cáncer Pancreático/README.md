@@ -21,6 +21,19 @@ Además del análisis de agrupamiento, se realizó una interpretación molecular
 
 Durante el desarrollo se utilizaron bibliotecas de Python orientadas a ciencia de datos, bioinformática y aprendizaje automático, incluyendo **pandas**, **NumPy**, **matplotlib**, **scikit-learn**, **SciPy** y **statsmodels**.
 
+## Características de la base de datos
+
+La base de datos utilizada contiene información molecular y clínica de pacientes diagnosticados con cáncer pancreático pertenecientes al cohorte **GDC TCGA Pancreatic Cancer (PAAD)**.
+
+Los archivos principales utilizados incluyen:
+
+- `TCGA-PAAD.star_tpm.tsv`: matriz de expresión génica RNAseq tipo STAR-TPM, donde cada fila representa un gen y cada columna corresponde a una muestra de paciente.
+- `TCGA-PAAD.clinical.tsv`: variables clínicas asociadas a los pacientes, incluyendo información demográfica y características clínicas relevantes.
+- `TCGA-PAAD.survival.tsv`: información relacionada con supervivencia y seguimiento clínico de los pacientes.
+- `gencode.v36.annotation.gtf.gene.probemap`: archivo de mapeo utilizado para relacionar identificadores génicos con nombres de genes interpretables.
+
+La base de datos contiene miles de variables génicas de alta dimensionalidad, por lo que fue necesario aplicar técnicas de filtrado, escalamiento y reducción de dimensionalidad para facilitar el análisis e interpretación de los datos.
+
 ## Archivos incluidos
 
 - [Reporte en formato ipynb](./P%20P3.%20Aprendizaje%20no%20supervisado.ipynb)
