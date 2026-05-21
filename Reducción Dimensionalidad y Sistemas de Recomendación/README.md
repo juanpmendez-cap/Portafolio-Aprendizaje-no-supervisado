@@ -1,4 +1,4 @@
-A3.1 PCA y Sistemas de Recomendación
+*A3.1 PCA y Sistemas de Recomendación*
 
 En este proyecto se desarrollan distintos análisis y modelos relacionados con reducción de dimensionalidad y sistemas de recomendación utilizando técnicas de aprendizaje automático no supervisado. El objetivo principal es explorar cómo métodos como PCA y los sistemas de filtrado colaborativo pueden utilizarse para identificar patrones relevantes en conjuntos de datos de alta dimensionalidad y generar recomendaciones personalizadas.
 
