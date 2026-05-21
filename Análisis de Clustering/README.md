@@ -10,5 +10,5 @@ Durante el desarrollo se utilizaron bibliotecas de Python orientadas a ciencia d
 
 ## Documentos incluidos
 
-- [Reporte en formato ipynb](./A3.2%20Clustering.ipynb)
+- [Descargar reporte en formato ipynb](./A3.2%20Clustering.ipynb?raw=1)
 - [Reporte en formato html](./A3.2%20Clustering.html)
