@@ -1,4 +1,4 @@
-# P P3. Análisis No Supervisado de Cáncer Pancreático
+Análisis No Supervisado de Cáncer Pancreático
 
 En este proyecto se desarrolla un análisis de aprendizaje no supervisado aplicado a datos reales de expresión génica relacionados con cáncer pancreático. El objetivo principal es identificar patrones moleculares y posibles agrupaciones de pacientes utilizando técnicas de reducción de dimensionalidad y clustering, además de explorar la relación entre dichas agrupaciones y variables clínicas relevantes.
 
@@ -36,8 +36,8 @@ La base de datos contiene miles de variables génicas de alta dimensionalidad, p
 
 ## Archivos incluidos
 
-- [Reporte en formato ipynb](./P%20P3.%20Aprendizaje%20no%20supervisado.ipynb)
-- [Reporte en formato html](./P%20P3.%20Aprendizaje%20no%20supervisado.html)
+- [Reporte en formato ipynb](./Análisis%20No%20Supervisado%20de%20Cáncer%20Pancreático.ipynb)
+- [Reporte en formato html](./Análisis%20No%20Supervisado%20de%20Cáncer%20Pancreático.html)
 
 ## Archivos de datos
 
