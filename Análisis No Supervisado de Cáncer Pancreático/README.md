@@ -23,7 +23,7 @@ Durante el desarrollo se utilizaron bibliotecas de Python orientadas a ciencia d
 
 ## Características de la base de datos
 
-La base de datos de UCSC Xena utilizada contiene información molecular y clínica de pacientes diagnosticados con cáncer pancreático.
+La base de datos utilizada contiene información molecular y clínica de pacientes diagnosticados con cáncer pancreático.
 
 Los archivos principales utilizados incluyen:
 
@@ -41,15 +41,13 @@ La base de datos contiene miles de variables génicas de alta dimensionalidad, p
 
 ## Archivos de datos
 
-Como se mencionó, este proyecto utiliza archivos de datos externos obtenidos desde UCSC Xena para el cohorte **GDC TCGA Pancreatic Cancer (PAAD)**. Debido al tamaño del archivo principal de expresión génica, `TCGA-PAAD.star_tpm.tsv` no se incluye directamente en el repositorio. En su lugar, se proporciona la fuente oficial para su descarga.
-
-### Archivos incluidos en el repositorio
+Se incluyen los archivos de datos externos obtenidos desde UCSC Xena para el cohorte **GDC TCGA Pancreatic Cancer (PAAD)**.
 
 - [`TCGA-PAAD.clinical.tsv`](./TCGA-PAAD.clinical.tsv)
 - [`TCGA-PAAD.survival.tsv`](./TCGA-PAAD.survival.tsv)
 - [`gencode.v36.annotation.gtf.gene.probemap`](./gencode.v36.annotation.gtf.gene.probemap)
 
-### Archivo no incluido por tamaño
+Debido al tamaño del archivo principal de expresión génica, `TCGA-PAAD.star_tpm.tsv` no se incluye directamente en el repositorio. En su lugar, se proporciona la fuente oficial para su descarga.
 
 - `TCGA-PAAD.star_tpm.tsv`
 
