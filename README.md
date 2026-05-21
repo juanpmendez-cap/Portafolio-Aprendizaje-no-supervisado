@@ -1,10 +1,10 @@
 # Portafolio Aprendizaje No Supervisado
 
-Este repositorio reúne proyectos de aprendizaje no supervisado y aprendizaje automático aplicado desarrollados en Python mediante Jupyter Notebook. Los proyectos incluyen reducción de dimensionalidad, clustering, sistemas de recomendación, pruebas estadísticas múltiples, aprendizaje por refuerzo y análisis bioinformático aplicado a datos reales de expresión génica.
+Este repositorio reúne distintos proyectos de aprendizaje no supervisado desarrollados en formato reproducible mediante Python y Jupyter Notebook. Los proyectos incluyen reducción de dimensionalidad, clustering, sistemas de recomendación, pruebas estadísticas múltiples, aprendizaje por refuerzo y análisis bioinformático aplicado a datos reales de expresión génica.
 
 ## Índice de proyectos
 
-### [Reducción Dimensionalidad y Sistemas de Recomendación](./Reducción%20Dimensionalidad%20y%20Sistemas%20de%20Recomendación/)
+### [PCA y Sistemas de Recomendación](./Reducción%20Dimensionalidad%20y%20Sistemas%20de%20Recomendación/)
 
 Análisis de reducción de dimensionalidad mediante PCA y exploración de sistemas de recomendación.
 
