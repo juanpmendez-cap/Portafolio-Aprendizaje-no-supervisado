@@ -41,7 +41,7 @@ La base de datos contiene miles de variables génicas de alta dimensionalidad, p
 
 ## Archivos de datos
 
-Este proyecto utiliza archivos de datos externos obtenidos desde UCSC Xena para el cohorte **GDC TCGA Pancreatic Cancer (PAAD)**. Debido al tamaño del archivo principal de expresión génica, `TCGA-PAAD.star_tpm.tsv` no se incluye directamente en el repositorio. En su lugar, se proporciona la fuente oficial para su descarga.
+Como se mencionó, este proyecto utiliza archivos de datos externos obtenidos desde UCSC Xena para el cohorte **GDC TCGA Pancreatic Cancer (PAAD)**. Debido al tamaño del archivo principal de expresión génica, `TCGA-PAAD.star_tpm.tsv` no se incluye directamente en el repositorio. En su lugar, se proporciona la fuente oficial para su descarga.
 
 ### Archivos incluidos en el repositorio
 
