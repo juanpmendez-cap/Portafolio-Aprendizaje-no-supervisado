@@ -10,5 +10,5 @@ Durante el desarrollo se utilizaron bibliotecas de Python orientadas a ciencia d
 
 ## Documentos incluidos
 
-- [Reporte en formato ipynb](./A3.1%20PCA%20y%20Sistemas%20de%20Recomendaci%C3%B3n.ipynb)
+- [Descargar reporte en formato ipynb](./A3.1%20PCA%20y%20Sistemas%20de%20Recomendación.ipynb?raw=1)
 - [Reporte en formato html](./A3.1%20PCA%20y%20Sistemas%20de%20Recomendaci%C3%B3n.html)
