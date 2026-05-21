@@ -12,5 +12,5 @@ Durante el desarrollo se utilizaron bibliotecas de Python orientadas a ciencia d
 
 ## Documentos incluidos
 
-- [Reporte en formato ipynb](./A3.3%20Multiple%20testing%20y%20aprendizaje%20por%20refuerzo.ipynb)
-- [Reporte en formato html](./A3.3%20Multiple%20testing%20y%20aprendizaje%20por%20refuerzo.html)
+- [Reporte en formato ipynb](./Multiple%20Testing%20y%20Aprendizaje%20por%20Refuerzo.ipynb)
+- [Reporte en formato html](./Multiple%20Testing%20y%20Aprendizaje%20por%20Refuerzo.html)
