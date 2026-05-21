@@ -4,7 +4,7 @@ Este repositorio reúne distintos proyectos de aprendizaje no supervisado desarr
 
 ## Índice de proyectos
 
-### [PCA y Sistemas de Recomendación](./Reducción%20Dimensionalidad%20y%20Sistemas%20de%20Recomendación/)
+### [PCA y Sistemas de Recomendación](./PCA%20y%20Sistemas%20de%20Recomendación/)
 
 Análisis de reducción de dimensionalidad mediante PCA y exploración de sistemas de recomendación.
 
