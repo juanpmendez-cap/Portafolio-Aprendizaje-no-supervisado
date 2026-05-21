@@ -1,4 +1,4 @@
-Análisis No Supervisado de Cáncer Pancreático
+# Análisis No Supervisado de Cáncer Pancreático
 
 En este proyecto se desarrolla un análisis de aprendizaje no supervisado aplicado a datos reales de expresión génica relacionados con cáncer pancreático. El objetivo principal es identificar patrones moleculares y posibles agrupaciones de pacientes utilizando técnicas de reducción de dimensionalidad y clustering, además de explorar la relación entre dichas agrupaciones y variables clínicas relevantes.
 
