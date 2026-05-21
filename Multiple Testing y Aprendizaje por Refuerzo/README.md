@@ -1,6 +1,8 @@
-# A3.3 Multiple Testing y Aprendizaje por Refuerzo
+# Multiple Testing y Aprendizaje por Refuerzo
 
-En este proyecto se desarrollan distintos análisis relacionados con pruebas estadísticas múltiples y aprendizaje por refuerzo utilizando técnicas de aprendizaje automático y análisis estadístico. El objetivo principal es explorar cómo distintos métodos permiten identificar resultados estadísticamente significativos y cómo un agente puede aprender comportamientos mediante interacción con un entorno.
+En este proyecto se desarrollan distintos análisis relacionados con pruebas estadísticas múltiples y aprendizaje por refuerzo utilizando técnicas de aprendizaje automático y análisis estadístico. El objetivo principal es explorar cómo distintos métodos permiten identificar resultados estadísticamente significativos y cómo un agente puede aprender comportamientos mediante interacción con un entorno. 
+
+Se realizó en forma de tutorial utilizando Jupyter Notebook, con el objetivo de documentar de forma reproducible cada etapa del análisis, incluyendo preparación de datos, implementación de modelos, visualización de resultados e interpretación de hallazgos.
 
 La primera parte del proyecto se enfoca en **Multiple Testing**, analizando el problema de realizar múltiples pruebas estadísticas simultáneamente y el impacto que esto tiene sobre la tasa de falsos descubrimientos. Se implementaron métodos de corrección como **Bonferroni**, **Holm** y **Benjamini-Hochberg**, comparando su efecto sobre la significancia estadística de distintas variables y conjuntos de datos.
 
