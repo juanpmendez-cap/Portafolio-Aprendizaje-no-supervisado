@@ -1,4 +1,4 @@
-#PCA y Sistemas de Recomendación
+# PCA y Sistemas de Recomendación
 
 En este proyecto se desarrollan distintos análisis relacionados con la reducción de dimensionalidad y los sistemas de recomendación utilizando técnicas de aprendizaje automático. El objetivo principal es explorar cómo métodos como **PCA** y los modelos de recomendación pueden utilizarse para identificar patrones relevantes en conjuntos de datos y generar representaciones más compactas de la información.
 
