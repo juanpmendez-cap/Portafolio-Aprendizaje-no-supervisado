@@ -26,16 +26,20 @@ Durante el desarrollo se utilizaron bibliotecas de Python orientadas a ciencia d
 - [Reporte en formato ipynb](./P%20P3.%20Aprendizaje%20no%20supervisado.ipynb)
 - [Reporte en formato html](./P%20P3.%20Aprendizaje%20no%20supervisado.html)
 
-## Archivos de datos incluidos
+## Archivos de datos
 
-- `TCGA-PAAD.clinical.tsv`
-- `TCGA-PAAD.survival.tsv`
-- `gencode.v36.annotation.gtf.gene.probemap`
+Este proyecto utiliza archivos de datos externos obtenidos desde UCSC Xena para el cohorte **GDC TCGA Pancreatic Cancer (PAAD)**. Debido al tamaño del archivo principal de expresión génica, `TCGA-PAAD.star_tpm.tsv` no se incluye directamente en el repositorio. En su lugar, se proporciona la fuente oficial para su descarga.
 
-## Nota sobre el dataset principal
+### Archivos incluidos en el repositorio
 
-El archivo `TCGA-PAAD.star_tpm.tsv` no se incluye directamente en el repositorio debido a su tamaño. El dataset puede descargarse desde la plataforma UCSC Xena utilizando el cohorte **GDC TCGA Pancreatic Cancer (PAAD)**.
+- [`TCGA-PAAD.clinical.tsv`](./TCGA-PAAD.clinical.tsv)
+- [`TCGA-PAAD.survival.tsv`](./TCGA-PAAD.survival.tsv)
+- [`gencode.v36.annotation.gtf.gene.probemap`](./gencode.v36.annotation.gtf.gene.probemap)
 
-## Fuente de los datos
+### Archivo no incluido por tamaño
 
-- https://xenabrowser.net/datapages/
+- `TCGA-PAAD.star_tpm.tsv`
+
+Este archivo puede descargarse desde UCSC Xena seleccionando el cohorte **GDC TCGA Pancreatic Cancer (PAAD)** y el dataset de expresión génica RNAseq tipo **STAR-TPM**.
+
+Fuente: https://xenabrowser.net/datapages/
