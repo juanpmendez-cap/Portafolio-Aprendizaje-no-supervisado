@@ -2,7 +2,7 @@
 
 En este proyecto se desarrolla un análisis de aprendizaje no supervisado aplicado a datos reales de expresión génica relacionados con cáncer pancreático. El objetivo principal es identificar patrones moleculares y posibles agrupaciones de pacientes utilizando técnicas de reducción de dimensionalidad y clustering, además de explorar la relación entre dichas agrupaciones y variables clínicas relevantes.
 
-El análisis se realizó utilizando datos del cohorte **GDC TCGA Pancreatic Cancer (PAAD)** obtenidos mediante la plataforma **UCSC Xena**, trabajando específicamente con datos de expresión génica RNAseq tipo **STAR-TPM**, información clínica y datos de supervivencia. :contentReference[oaicite:0]{index=0}
+El análisis se realizó utilizando datos del cohorte **GDC TCGA Pancreatic Cancer (PAAD)** obtenidos mediante la plataforma **UCSC Xena**, trabajando específicamente con datos de expresión génica RNAseq tipo **STAR-TPM**, información clínica y datos de supervivencia.
 
 Durante el desarrollo del proyecto se realizaron procesos de preparación y tratamiento de datos, incluyendo:
 
@@ -26,14 +26,16 @@ Durante el desarrollo se utilizaron bibliotecas de Python orientadas a ciencia d
 - [Reporte en formato ipynb](./P%20P3.%20Aprendizaje%20no%20supervisado.ipynb)
 - [Reporte en formato html](./P%20P3.%20Aprendizaje%20no%20supervisado.html)
 
-## Archivos de datos utilizados
+## Archivos de datos incluidos
 
-- `TCGA-PAAD.star_tpm.tsv`
 - `TCGA-PAAD.clinical.tsv`
 - `TCGA-PAAD.survival.tsv`
 - `gencode.v36.annotation.gtf.gene.probemap`
 
+## Nota sobre el dataset principal
+
+El archivo `TCGA-PAAD.star_tpm.tsv` no se incluye directamente en el repositorio debido a su tamaño. El dataset puede descargarse desde la plataforma UCSC Xena utilizando el cohorte **GDC TCGA Pancreatic Cancer (PAAD)**.
+
 ## Fuente de los datos
 
-- TCGA vía UCSC Xena:
-https://xenabrowser.net/datapages/
+- https://xenabrowser.net/datapages/
