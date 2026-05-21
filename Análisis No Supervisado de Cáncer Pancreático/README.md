@@ -23,7 +23,7 @@ Durante el desarrollo se utilizaron bibliotecas de Python orientadas a ciencia d
 
 ## Archivos incluidos
 
-- [Descargar reporte en formato ipynb](./P%20P3.%20Aprendizaje%20no%20supervisado.ipynb?raw=1)
+- [Reporte en formato ipynb](./P%20P3.%20Aprendizaje%20no%20supervisado.ipynb)
 - [Reporte en formato html](./P%20P3.%20Aprendizaje%20no%20supervisado.html)
 
 ## Archivos de datos
