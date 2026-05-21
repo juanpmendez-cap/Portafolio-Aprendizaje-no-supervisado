@@ -1,6 +1,6 @@
 # Análisis de Clustering
 
-En este proyecto se desarrollan distintos análisis de agrupamiento utilizando técnicas de aprendizaje no supervisado. El objetivo principal es explorar la estructura interna de distintos conjuntos de datos mediante métodos de clustering y técnicas de reducción de dimensionalidad.
+En este proyecto se desarrollan distintos análisis de agrupamiento utilizando técnicas de aprendizaje no supervisado. El objetivo principal es explorar la estructura interna de distintos conjuntos de datos mediante métodos de clustering y técnicas de reducción de dimensionalidad. Fue desarrollado en formato tutorial utilizando Jupyter Notebook, con el objetivo de documentar de forma reproducible cada etapa del análisis, incluyendo preparación de datos, implementación de modelos, visualización de resultados e interpretación de hallazgos.
 
 El proyecto incluye la implementación y comparación de algoritmos como **K-Means** y **clustering jerárquico**, analizando cómo diferentes enfoques permiten identificar grupos naturales dentro de los datos. También se utilizaron métricas y métodos de evaluación como el **método del codo**, el **silhouette score** y representaciones visuales en espacios reducidos mediante **PCA**.
 
