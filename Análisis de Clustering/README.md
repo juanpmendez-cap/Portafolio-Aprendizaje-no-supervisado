@@ -1,4 +1,4 @@
-# A3.2 Análisis de Clustering
+# Análisis de Clustering
 
 En este proyecto se desarrollan distintos análisis de agrupamiento utilizando técnicas de aprendizaje no supervisado. El objetivo principal es explorar la estructura interna de distintos conjuntos de datos mediante métodos de clustering y técnicas de reducción de dimensionalidad.
 
@@ -10,5 +10,5 @@ Durante el desarrollo se utilizaron bibliotecas de Python orientadas a ciencia d
 
 ## Documentos incluidos
 
-- [Reporte en formato ipynb](./A3.2%20Clustering.ipynb)
-- [Reporte en formato html](./A3.2%20Clustering.html)
+- [Reporte en formato ipynb](./Análisis%20de%20Clustering.ipynb)
+- [Reporte en formato html](./Análisis%20de%20Clustering.html)
