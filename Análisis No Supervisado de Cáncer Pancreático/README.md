@@ -23,7 +23,7 @@ Durante el desarrollo se utilizaron bibliotecas de Python orientadas a ciencia d
 
 ## Características de la base de datos
 
-La base de datos utilizada contiene información molecular y clínica de pacientes diagnosticados con cáncer pancreático pertenecientes al cohorte **GDC TCGA Pancreatic Cancer (PAAD)**.
+La base de datos de UCSC Xena utilizada contiene información molecular y clínica de pacientes diagnosticados con cáncer pancreático.
 
 Los archivos principales utilizados incluyen:
 
