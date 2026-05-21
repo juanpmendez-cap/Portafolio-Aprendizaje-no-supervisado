@@ -47,10 +47,6 @@ Se incluyen los archivos de datos externos obtenidos desde UCSC Xena para el coh
 - [`TCGA-PAAD.survival.tsv`](./TCGA-PAAD.survival.tsv)
 - [`gencode.v36.annotation.gtf.gene.probemap`](./gencode.v36.annotation.gtf.gene.probemap)
 
-Debido al tamaño del archivo principal de expresión génica, `TCGA-PAAD.star_tpm.tsv` no se incluye directamente en el repositorio. En su lugar, se proporciona la fuente oficial para su descarga.
-
-- `TCGA-PAAD.star_tpm.tsv`
-
-Este archivo puede descargarse desde UCSC Xena seleccionando el cohorte **GDC TCGA Pancreatic Cancer (PAAD)** y el dataset de expresión génica RNAseq tipo **STAR-TPM**.
+Debido al tamaño del archivo principal de expresión génica, `TCGA-PAAD.star_tpm.tsv` no se incluye directamente en el repositorio. En su lugar, se proporciona la fuente oficial para su descarga. Esto se puede realizar desde UCSC Xena seleccionando el cohorte **GDC TCGA Pancreatic Cancer (PAAD)** y el dataset de expresión génica RNAseq tipo **STAR-TPM**.
 
 Fuente: [UCSC Xena](https://xenabrowser.net/datapages/)
